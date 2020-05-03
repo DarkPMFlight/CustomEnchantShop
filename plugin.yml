@@ -1,0 +1,14 @@
+---
+name: EnchantCEUI
+main: DarkPMFlight\EnchantCEUI\Main
+version: "0.5"
+api:
+- 3.0.0
+load: POSTWORLD
+depend: [PiggyCustomEnchants]
+author: DarkPMFlight
+permissions:
+  buyce.command.ce:
+    default: true
+    description: Shop CustomEnchant
+...
